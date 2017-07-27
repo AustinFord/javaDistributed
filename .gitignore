@@ -23,7 +23,9 @@ hs_err_pid*
 
 *.xml
 *.mf
+*.iml
 
 build/
 dist/
 nbproject/
+out/
