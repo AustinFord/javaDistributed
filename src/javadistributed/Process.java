@@ -34,6 +34,6 @@ public class Process {
     }
     
     public String toString() {
-    return "I am: " + pid + " My address is: " + ip + " I am listening on port: " + port;  
+    return "ID: " + pid + " My address is: " + ip + "Port: "+ port;
     }
 }
